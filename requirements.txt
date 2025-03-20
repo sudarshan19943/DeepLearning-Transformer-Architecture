@@ -1,0 +1,6 @@
+setuptools 
+wheel
+numpy
+pandas
+matplotlib
+tensorflow>=2.10.1
